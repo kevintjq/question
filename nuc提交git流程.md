@@ -150,6 +150,5 @@ git rm -r --cached .
 git add .
 git commit -m "Update .gitignore"
 ```
----
 
 **提示**：请确保在推送代码前检查 `.gitignore` 文件是否正确配置，避免上传构建日志和依赖文件。
